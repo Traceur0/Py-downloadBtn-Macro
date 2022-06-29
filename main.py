@@ -1,4 +1,4 @@
-from seleniumIns import load_page, pagination, auto_download
+from auto import load_page, pagination, auto_download
 
 
 load_page()
